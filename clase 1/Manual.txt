@@ -32,3 +32,6 @@ git config --global user.mail lesterpinango.8gmail.com
 11. CLONAR UN REPOSITORIO
 git clone <<URL>> 
  git clone https://github.com/fcblesterzz22/Clases-Python/tree/develop
+
+ 12. VER VERSION DE Python
+ python --version
