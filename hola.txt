@@ -5,7 +5,16 @@ git pull
 git branch
 
 3. PASAR DE UNA RAMA A OTRA RAMA (osea rama 1 a rama 2 o bien de rama 2 a rama 1)
-git checkout <<nombre_de_la_rama>>
+git checkout nombre_de_la_rama
 
-4. SUBIR CAMBIOS AL REPOSITORIO
+4. GUARDAR CAMBIOS AL REPOSITORIO
 git add .
+
+5. VER ESTADO DE LA RAMA
+git status
+
+6. COLOCAR UN COMENTARIO EN EL CAMBIO REALIZADO
+git commit -m "aqui adentro va el comentario" 
+
+7. SUBIR CAMBIOS AL REPOSITORIO
+git push
