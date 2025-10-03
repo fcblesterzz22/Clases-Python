@@ -6,7 +6,7 @@ git branch
 
 3. PASAR DE UNA RAMA A OTRA RAMA (osea rama 1 a rama 2 o bien de rama 2 a rama 1)
 git checkout nombre_de_la_rama
-
+-------------------------------------------------------------------- CAMBIOS
 4. GUARDAR CAMBIOS AL REPOSITORIO
 git add .
 
@@ -18,3 +18,17 @@ git commit -m "aqui adentro va el comentario"
 
 7. SUBIR CAMBIOS AL REPOSITORIO
 git push
+
+8. LIMPIAR CONSOLA
+clear || cls
+-------------------------------COMANDOS EXTRAS
+9. VER HISTORIAL DE CONSOLA
+history 
+
+10. CONFIGURAR ENTORNO LOCAL DE GIT
+git config --global user.name "fcblesterzz22"
+git config --global user.mail lesterpinango.8gmail.com
+
+11. CLONAR UN REPOSITORIO
+git clone <<URL>> 
+ git clone https://github.com/fcblesterzz22/Clases-Python/tree/develop
