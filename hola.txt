@@ -1,0 +1,11 @@
+1. #TRAER DATOS DEL REPOSITORIO
+git pull
+
+2. VER LA RAMA
+git branch
+
+3. PASAR DE UNA RAMA A OTRA RAMA (osea rama 1 a rama 2 o bien de rama 2 a rama 1)
+git checkout <<nombre_de_la_rama>>
+
+4. SUBIR CAMBIOS AL REPOSITORIO
+git add .
