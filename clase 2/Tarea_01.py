@@ -7,7 +7,7 @@
 edad = int(input("Por favor, escriba su edad: "))
 if edad <= 12:
     print("Niño")
-elif edad >= 12 <= 18:
+elif edad >= 12 <= 18 > 19:
     print("Adolescente")
 else:
     print("Adulto")
